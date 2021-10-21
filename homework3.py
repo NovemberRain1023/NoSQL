@@ -17,8 +17,8 @@ import boto3
 
 
 s3 = boto3.resource('s3',
-aws_access_key_id='AKIA2HLNT4QFRKMSBVXQ',
-aws_secret_access_key='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'
+aws_access_key_id='AKIA2HLNT4QFRKMSBV',
+aws_secret_access_key='QzFmwOf8u98rNw1mgkAPdf39euBFJs6gyB88g'
 )
 
 
