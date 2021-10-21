@@ -85,8 +85,8 @@ s3.Object('arthas1023', 'test').Acl().put(ACL='public-read')
 
 dyndb = boto3.resource('dynamodb',
     region_name='us-east-2',
-    aws_access_key_id='AKIA2HLNT4QFRKMSBVXQ',
-    aws_secret_access_key='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'
+    aws_access_key_id='AKIA2HLNT4QFRKMSBV',
+    aws_secret_access_key='QzFmwOf8u98rNw1mgkAPdf39euBFJs6gyB88g'
 )
 
 
